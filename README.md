@@ -1,6 +1,6 @@
 # FIFA Challenge - JavaScript-Foundations
 
-## Advanced JavaScript
+## Advanced JavaScriptmm
 
 ## Array Methods and Callbacks
 *Note*: Please add the LIVE server extension to your visual studio code and use it for this project. https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer - this will make viewing your data easier. 
